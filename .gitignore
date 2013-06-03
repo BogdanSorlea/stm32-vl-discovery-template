@@ -11,3 +11,8 @@
 *.lai
 *.la
 *.a
+
+workspace/*/Debug/*
+workspace/*/Debug/*
+workspace/*/Release/*
+workspace/*/Release
